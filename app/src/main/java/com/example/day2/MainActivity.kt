@@ -49,7 +49,8 @@ class MainActivity : ComponentActivity() {
             //greet()
             //counter()
             //LazyItemColumn()
-            counter2()
+            //Counter2()
+            Tip_Calculator()
 
         }
 
